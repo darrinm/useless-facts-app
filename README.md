@@ -4,7 +4,7 @@ A tiny, clean app that fetches and displays random useless facts from the Useles
 
 ## Preview
 
-<img width="840" height="1748" alt="screenshot 2026-04-27 at 13 57 34@2x" src="https://github.com/user-attachments/assets/b8ec1768-37b0-482b-9c01-98f0d3f94868" />
+![App screenshot](screenshot.png)
 
 ## Features
 
