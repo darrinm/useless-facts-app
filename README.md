@@ -2,10 +2,6 @@
 
 A tiny, clean app that fetches and displays random useless facts from the Useless Facts API.
 
-## Preview
-
-!#Img (Useless Facts App Screenshot)(https://raw.githubusercontent.com/darrinm/useless-facts-app/main/screenshot.png)
-
 ## Features
 
 - **Display Random Facts**: Show facts in a clean card layout
@@ -14,7 +10,7 @@ A tiny, clean app that fetches and displays random useless facts from the Useles
 
 ## How It Works
 
-- Built with vanilla JavaScript, HTML, and CSS
+- Built with vanilla JavaScript, HT­, and CSS
 - Uses the [Useless Facts API](https://uselessfacts.jsph.pl/) (no authentication required)
 - Clean, minimal design with smooth animations
 
