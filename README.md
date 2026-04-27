@@ -4,7 +4,7 @@ A tiny, clean app that fetches and displays random useless facts from the Useles
 
 ## Preview
 
-!#Img (Useless Facts App Screenshot)(screenshot.png)
+!#Img (Useless Facts App Screenshot)(screenshot.png) 
 
 ## Features
 
@@ -14,7 +14,7 @@ A tiny, clean app that fetches and displays random useless facts from the Useles
 
 ## How It Works
 
-- Built with vanilla JavaScript, HT­, and CSS
+- Built with vanilla JavaScript, HTÂ­, and CSS
 - Uses the [Useless Facts API](https://uselessfacts.jsph.pl/) (no authentication required)
 - Clean, minimal design with smooth animations
 
