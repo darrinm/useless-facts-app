@@ -2,6 +2,10 @@
 
 A tiny, clean app that fetches and displays random useless facts from the Useless Facts API.
 
+## Preview
+
+!#Img (Useless Facts App Screenshot)(screenshot.png)
+
 ## Features
 
 - **Display Random Facts**: Show facts in a clean card layout
